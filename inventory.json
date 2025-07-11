@@ -1,0 +1,67 @@
+{
+    "All-purpose Flour": {
+        "quantity": 50,
+        "unit": "kilos",
+        "expiry": "2025-08-01"
+    },
+    "Sugar": {
+        "quantity": 30,
+        "unit": "kilos",
+        "expiry": "2025-12-01"
+    },
+    "Milk": {
+        "quantity": 33.0,
+        "unit": "litres",
+        "expiry": "2025-07-24"
+    },
+    "Yeast": {
+        "quantity": 30,
+        "unit": "kilos",
+        "expiry": "2025-09-18"
+    },
+    "Salt": {
+        "quantity": 23.0,
+        "unit": "kilos",
+        "expiry": "2029-07-14"
+    },
+    "Eggs": {
+        "quantity": 34.0,
+        "unit": "quantity",
+        "expiry": "2025-07-04"
+    },
+    "Butter": {
+        "quantity": 28,
+        "unit": "kilos",
+        "expiry": "2025-07-01"
+    },
+    "Chocolate Chips": {
+        "quantity": 21.0,
+        "unit": "kilos",
+        "expiry": "2026-09-08"
+    },
+    "Baking Powder": {
+        "quantity": 10,
+        "unit": "kilos",
+        "expiry": "2027-09-28"
+    },
+    "Vanilla Extract": {
+        "quantity": 13,
+        "unit": "kilos",
+        "expiry": "2028-07-22"
+    },
+    "Honey": {
+        "quantity": 22.0,
+        "unit": "kg",
+        "expiry": "2026-03-13"
+    },
+    "Cocoa": {
+        "quantity": 34.0,
+        "unit": "kg",
+        "expiry": "2026-04-15"
+    },
+    "Coconut": {
+        "quantity": 20.0,
+        "unit": "kg",
+        "expiry": "2026-04-13"
+    }
+}
