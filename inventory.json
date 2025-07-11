@@ -48,20 +48,5 @@
         "quantity": 13,
         "unit": "kilos",
         "expiry": "2028-07-22"
-    },
-    "Honey": {
-        "quantity": 22.0,
-        "unit": "kg",
-        "expiry": "2026-03-13"
-    },
-    "Cocoa": {
-        "quantity": 34.0,
-        "unit": "kg",
-        "expiry": "2026-04-15"
-    },
-    "Coconut": {
-        "quantity": 20.0,
-        "unit": "kg",
-        "expiry": "2026-04-13"
     }
 }
