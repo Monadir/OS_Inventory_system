@@ -19,7 +19,6 @@ permissions = ADMIN_PERMISSIONS if userRole == "Admin" else STAFF_PERMISSIONS
 print(f"Welcome, {userRole}! Permissions granted: {', '.join(permissions)}")
 
 # Load or initialize inventory
-
 """Load the inventory from the JSON file."""
 try:
     with open(INVENTORY_FILE, "r") as f:
@@ -143,7 +142,7 @@ def search_ingredient():
         low_stock_alert()  # Alert after check
 
 
-def check_expiry() -> None:
+def check_expiry():
     """Check for expired ingredients."""
     today = date.today()
     expired = [
